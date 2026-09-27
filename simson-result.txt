@@ -1,0 +1,460 @@
+⚠️ Could not parse serial 355: ANILINE HYDROCHLORIDE 99% (For Synthesis) 142-04 -1 SC5338 250gm 29214120 18 1224
+⚠️ Could not parse serial 356: ANILINE HYDROCHLORIDE 99% (For Synthesis) 142-04 -1 SC5338 500gm 29214120 18 2218.5
+⚠️ Could not parse serial 409: ARSENAZO I AR (Neothorone) (Reagent for Thorium) 66019 20-3 SC5347 1gm 29319090 18 1147.5
+⚠️ Could not parse serial 410: ARSENAZO I AR (Neothorone) (Reagent for Thorium) 66019 20-3 SC5347 5gm 29319090 18 4972.5
+⚠️ Could not parse serial 861: CALCIUM ACETATE 99% AR 114460-21-8 Sc1055 500gm 29152910 18 858.5
+⚠️ Could not parse serial 1003: CEROUS CARBONATE 99.9% AR (Cerium (III) Carbonate) 54451-25-1 SC1203 500gm 28469090 18 #VALUE!
+⚠️ Could not parse serial 1380: DEXTRAN AV. Mol. wt. 50000 9004-54-0 SC1639 100gm 39139090 18 #VALUE!
+⚠️ Could not parse serial 1443: MERCURY METAL 99% Extra Pure 105-53-3 SC2929 2 KG 28054000 18 3867.5
+⚠️ Could not parse serial 1543: DL-a-PHENYL GLYCINE 2835-06-5. SC5601 25gm 29224990 18 1802
+⚠️ Could not parse serial 1544: DL-a-PHENYL GLYCINE 2835-06-5. SC5601 100gm 29224990 18 4199 -- 21 of 66 --
+⚠️ Could not parse serial 1554: D-LEUCINE 328-38-1 SC5447 1gm 29224990 18 #VALUE!
+⚠️ Could not parse serial 1555: D-LEUCINE 328-38-1 SC5447 5gm 29224990 18 #VALUE!
+⚠️ Could not parse serial 1556: D-LEUCINE 328-38-1 SC5447 25gm 29224990 18 #VALUE!
+⚠️ Could not parse serial 1558: DL-ISO-LEUCINE 99% (For Biochemistry) 443-79-8 SC2607 10gm 29224990 18 #VALUE!
+⚠️ Could not parse serial 1559: DL-ISO-LEUCINE 99% (For Biochemistry) 443-79-8 SC2607 25gm 29224990 18 #VALUE!
+⚠️ Could not parse serial 1560: DL-LEUCINE 328-39-2 SC5448 5gm 29224990 18 #VALUE!
+⚠️ Could not parse serial 1561: DL-LEUCINE 328-39-2 SC5448 25gm 29224990 18 #VALUE!
+⚠️ Could not parse serial 1565: DL-METHIONINE 99% (For Biochemistry) 59-51-8 SC2995 100gm 29304000 18 #VALUE!
+⚠️ Could not parse serial 1566: DL-METHIONINE 99% (For Biochemistry) 59-51-8 SC2995 500gm 29304000 18 #VALUE!
+⚠️ Could not parse serial 1569: DL-NOR-LEUCINE 99+% (For Biochemistry) 616-06-8 SC2734 10gm 29224990 18 #VALUE!
+⚠️ Could not parse serial 1570: DL-NOR-LEUCINE 99+% (For Biochemistry) 616-06-8 SC2734 25gm 29224990 18 #VALUE!
+⚠️ Could not parse serial 1573: DL-SERINE 99+% (For Biochemistry) 302-84-1 SC3975 25gm 29225090 18 #VALUE!
+⚠️ Could not parse serial 1574: DL-SERINE 99+% (For Biochemistry) 302-84-1 SC3975 100gm 29225090 18 #VALUE!
+⚠️ Could not parse serial 1576: DL-THREONINE 99% (For Biochemistry) 80-68-2 SC4550 25gm 29225090 18 #VALUE!
+⚠️ Could not parse serial 1577: DL-THREONINE 99% (For Biochemistry) 80-68-2 SC4550 100gm 29225090 18 #VALUE!
+⚠️ Could not parse serial 1585: DODECYL BENZENE (For Synthesis) 123-01-3 SC1957 100ml 29029030 18 #VALUE!
+⚠️ Could not parse serial 1592: D-PROLINE 99% (For Biochemistry) 344-25-2 SC3807 1gm 29181190 18 #VALUE!
+⚠️ Could not parse serial 1593: D-PROLINE 99% (For Biochemistry) 344-25-2 SC3807 5gm 29181190 18 #VALUE!
+⚠️ Could not parse serial 1594: D-PROLINE 99% (For Biochemistry) 344-25-2 SC3807 25gm 29181190 18 #VALUE!
+⚠️ Could not parse serial 1600: D-SERINE (For Biochemistry) 312-84-5 SC3976 5gm 29225090 18 #VALUE!
+⚠️ Could not parse serial 1601: D-SERINE (For Biochemistry) 312-84-5 SC3976 25gm 29225090 18 #VALUE!
+⚠️ Could not parse serial 1844: FOLIN & WU'S ALKALINE PHOSPHATE MOLYBDATE SOLUTION NA SC2217 5ltr 38220090 12 #VALUE!
+⚠️ Could not parse serial 1847: FORMALDEHYDE SOLUTION 37-41% W/V AR 50-00-0 SC2219 25L 29121100 18 #VALUE!
+⚠️ Could not parse serial 1851: FORMALDEHYDE SOLUTION 37-41% W/V Extra Pure 50-00-0 SC2218 25L 29121100 18 #VALUE!
+⚠️ Could not parse serial 2116: INDICATOR PAPER (full range) ph 1.0-14.0 (with colour scale) NA SC2545 10 Books 38220090 12 323
+⚠️ Could not parse serial 2117: INDICATOR PAPER pH 2.0-4.5 (with colour scale) NA SC2539 10 Books 38220090 12 323
+⚠️ Could not parse serial 2118: INDICATOR PAPER pH 3.5-6.0 (with colour scale) NA SC2540 10 Books 38220090 12 323
+⚠️ Could not parse serial 2119: INDICATOR PAPER pH 6.5-9.0 (with colour scale) NA SC2542 10 Books 38220090 12 323
+⚠️ Could not parse serial 2120: INDICATOR PAPER pH 8.0-10.5 (with colour scale) NA SC2543 10 Books 38220090 12 323
+⚠️ Could not parse serial 2256: L (-) SORBOSE 99% (For Biochemistry) 87-79-6 SC4318 25gm 29400000 18 #VALUE!
+⚠️ Could not parse serial 2261: L-(-)FUCOSE 99% (For Biochemistry) 2438-80-4 SC2243 500mg 29400000 18 #VALUE!
+⚠️ Could not parse serial 2262: L-(-)FUCOSE 99% (For Biochemistry) 2438-80-4 SC2243 1gm 29400000 18 #VALUE!
+⚠️ Could not parse serial 2314: L-ARGININE 99% (For Biochemistry) 74-79-3 SC0489 1 KG 29224990 18 5601.5
+⚠️ Could not parse serial 2343: L-CYSTEINE 99% (For Biochemistry) 52-90-4 SC1613 5gm 29309040 18 #VALUE!
+⚠️ Could not parse serial 2344: L-CYSTEINE 99% (For Biochemistry) 52-90-4 SC1613 25gm 29309040 18 #VALUE!
+⚠️ Could not parse serial 2345: L-CYSTEINE 99% (For Biochemistry) 52-90-4 SC1613 100gm 29309040 18 #VALUE!
+⚠️ Could not parse serial 2346: L-CYSTEINE 99% (For Biochemistry) 52-90-4 SC1613 500gm 29309040 18 #VALUE!
+⚠️ Could not parse serial 2351: L-CYSTINE 99% (For Biochemistry) 56-89-3 SC1616 25gm 29309040 18 #VALUE!
+⚠️ Could not parse serial 2352: L-CYSTINE 99% (For Biochemistry) 56-89-3 SC1616 100gm 29309040 18 #VALUE!
+⚠️ Could not parse serial 2353: L-CYSTINE 99% (For Biochemistry) 56-89-3 SC1616 500gm 29309040 18 #VALUE!
+⚠️ Could not parse serial 2378: LEAD IODIDE 10101-63-0 SC2706 500gm 28276090 18 #VALUE!
+⚠️ Could not parse serial 2409: L-HISTIDINE 99% (For Biochemistry) 71-00-1 SC2414 25gm 29332990 18 #VALUE!
+⚠️ Could not parse serial 2410: L-HISTIDINE 99% (For Biochemistry) 71-00-1 SC2414 100gm 29332990 18 #VALUE!
+⚠️ Could not parse serial 2411: L-HISTIDINE 99% (For Biochemistry) 71-00-1 SC2414 500gm 29332990 18 #VALUE!
+⚠️ Could not parse serial 2415: L-HYDROXY PROLINE 99% (For Biochemistry) 51-35-4 SC2513 1gm 29339900 18 #VALUE!
+⚠️ Could not parse serial 2416: L-HYDROXY PROLINE 99% (For Biochemistry) 51-35-4 SC2513 5gm 29339900 18 #VALUE!
+⚠️ Could not parse serial 2417: L-HYDROXY PROLINE 99% (For Biochemistry) 51-35-4 SC2513 25gm 29339900 18 #VALUE!
+⚠️ Could not parse serial 2418: L-HYDROXY PROLINE 99% (For Biochemistry) 51-35-4 SC2513 100gm 29339900 18 #VALUE!
+⚠️ Could not parse serial 2419: LIGHT GREEN (For Microscopy) (C.I.NO.42095) (Light Green SF Yellowish) 5141-20-8 SC2736 25gm 32049000 18 #VALUE!
+⚠️ Could not parse serial 2420: LIGHT GREEN (For Microscopy) (C.I.NO.42095) (Light Green SF Yellowish) 5141-20-8 SC2736 100gm 32049000 18 #VALUE!
+⚠️ Could not parse serial 2421: LIGHT GREEN SOLUTION 0.1% (For Microscopy) NA SC2738 125ml 32049000 12 #VALUE!
+⚠️ Could not parse serial 2422: LIGHT GREEN SOLUTION 0.1% (For Microscopy) NA SC2738 500ml 32049000 12 #VALUE!
+⚠️ Could not parse serial 2427: L-ISO-LEUCINE 99% (For Biochemistry) 73-32-5 SC2606 5gm 29224990 18 #VALUE!
+⚠️ Could not parse serial 2428: L-ISO-LEUCINE 99% (For Biochemistry) 73-32-5 SC2606 25gm 29224990 18 #VALUE!
+⚠️ Could not parse serial 2429: L-ISO-LEUCINE 99% (For Biochemistry) 73-32-5 SC2606 100gm 29224990 18 #VALUE!
+⚠️ Could not parse serial 2482: L-LEUCINE 99+% (For Biochemistry) 61-90-5 SC2733 25gm 29224990 18 #VALUE!
+⚠️ Could not parse serial 2483: L-LEUCINE 99+% (For Biochemistry) 61-90-5 SC2733 100gm 29224990 18 #VALUE!
+⚠️ Could not parse serial 2484: L-LYSINE MONOHYDROCHLORIDE 98.5% (For Synthesis) 657-27-2 SC2798 100gm 29224100 18 #VALUE!
+⚠️ Could not parse serial 2485: L-LYSINE MONOHYDROCHLORIDE 98.5% (For Synthesis) 657-27-2 SC2798 500gm 29224100 18 #VALUE!
+⚠️ Could not parse serial 2486: L-METHIONINE 99% (For Biochemistry) 63-68-3 SC2996 25gm 29304000 18 #VALUE!
+⚠️ Could not parse serial 2487: L-METHIONINE 99% (For Biochemistry) 63-68-3 SC2996 100gm 29304000 18 #VALUE!
+⚠️ Could not parse serial 2488: L-METHIONINE 99% (For Biochemistry) 63-68-3 SC2996 500gm 29304000 18 #VALUE!
+⚠️ Could not parse serial 2489: L-ORNITHINE MONOHYDROCHLORIDE 99% (For Biochemistry) 3184-13-2 SC3357 5gm 29224990 18 #VALUE!
+⚠️ Could not parse serial 2490: L-ORNITHINE MONOHYDROCHLORIDE 99% (For Biochemistry) 3184-13-2 SC3357 25gm 29224990 18 #VALUE!
+⚠️ Could not parse serial 2491: L-ORNITHINE MONOHYDROCHLORIDE 99% (For Biochemistry) 3184-13-2 SC3357 100gm 29224990 18 #VALUE!
+⚠️ Could not parse serial 2492: L-PHENYL GLYCINE 2935-35-5 SC5602 5gm 29224990 18 #VALUE!
+⚠️ Could not parse serial 2493: L-PHENYL GLYCINE 2935-35-5 SC5602 25gm 29224990 18 #VALUE!
+⚠️ Could not parse serial 2497: L-PROLINE 99% (For Biochemistry) 147-85-3 SC3808 5gm 29339900 18 #VALUE!
+⚠️ Could not parse serial 2498: L-PROLINE 99% (For Biochemistry) 147-85-3 SC3808 25gm 29339900 18 #VALUE!
+⚠️ Could not parse serial 2499: L-PROLINE 99% (For Biochemistry) 147-85-3 SC3808 100gm 29339900 18 #VALUE!
+⚠️ Could not parse serial 2500: L-PROLINE 99% (For Biochemistry) 147-85-3 SC3808 500gm 29339900 18 #VALUE!
+⚠️ Could not parse serial 2507: L-THREONINE 99% (For Biochemistry) 72-19-5 SC4551 5gm 29225090 18 #VALUE!
+⚠️ Could not parse serial 2508: L-THREONINE 99% (For Biochemistry) 72-19-5 SC4551 25gm 29225090 18 #VALUE!
+⚠️ Could not parse serial 2509: L-THREONINE 99% (For Biochemistry) 72-19-5 SC4551 100gm 29225090 18 #VALUE!
+⚠️ Could not parse serial 2510: L-THREONINE 99% (For Biochemistry) 72-19-5 SC4551 500gm 29225090 18 #VALUE!
+⚠️ Could not parse serial 2514: L-TYROSINE 99% (For Biochemistry) 60-18-4 SC4725 25gm 29225015 18 #VALUE!
+⚠️ Could not parse serial 2515: L-TYROSINE 99% (For Biochemistry) 60-18-4 SC4725 100gm 29225015 18 #VALUE!
+⚠️ Could not parse serial 2516: L-TYROSINE 99% (For Biochemistry) 60-18-4 SC4725 500gm 29225015 18 #VALUE!
+⚠️ Could not parse serial 2521: L-VALINE 99+% (For Biochemistry) 72-18-4 SC4754 500gm 29224990 18 #VALUE!
+⚠️ Could not parse serial 2637: MERCURIC ACETATE 99% Extra Pure 1600-27-7 SC2931 500gm 28521000 18 #VALUE!
+⚠️ Could not parse serial 2662: MERCURIC IODIDE RED 99% Extra Pure 7774-29-0 SC2942 500gm 28521000 18 #VALUE!
+⚠️ Could not parse serial 2702: MERCUROUS CHLORIDE 99.5% AR 10112-91-1 SC2964 500gm 28521000 18 #VALUE!
+⚠️ Could not parse serial 2706: MERCUROUS NITRATE 95% Extra Pure 14836-60-3 SC2965 500gm 28521000 18 #VALUE!
+⚠️ Could not parse serial 2718: MESO-INOSITOL 99% (For Biochemistry) (Myo-Inositol) 87-89-8 SC2566 25gm 29061390 18 #VALUE!
+⚠️ Could not parse serial 2719: MESO-INOSITOL 99% (For Biochemistry) (Myo-Inositol) 87-89-8 SC2566 100gm 29061390 18 #VALUE!
+⚠️ Could not parse serial 2720: MESO-INOSITOL 99% (For Biochemistry) (Myo-Inositol) 87-89-8 SC2566 500gm 29061390 18 #VALUE!
+⚠️ Could not parse serial 2745: MERCURY METAL 99% Extra Pure 79-41-4 SC2929 2 kg 28054000 18 3867.5
+⚠️ Could not parse serial 2757: METHYL BLUE (For Microscopy) (C.I.NO.42780) 28983-56-4 SC3032 25gm 32049000 18 #VALUE!
+⚠️ Could not parse serial 2758: METHYL BLUE (For Microscopy) (C.I.NO.42780) 28983-56-4 SC3032 100gm 32049000 18 #VALUE!
+⚠️ Could not parse serial 2764: METHYL CELLULOSE (High Viscosity) 4000 CPS 9004-67-5 SC3041 250gm 39123922 18 #VALUE!
+⚠️ Could not parse serial 2765: METHYL CELLULOSE (High Viscosity) 4000 CPS 9004-67-5 SC3041 500gm 39123922 18 #VALUE!
+⚠️ Could not parse serial 2767: METHYL GREEN (For Microscopy) (C.I.NO.42590) (Zinc Chloride Disodium Salt) 7114-03-6. SC3067 5gm 32049000 18 688.5
+⚠️ Could not parse serial 2768: METHYL GREEN (For Microscopy) (C.I.NO.42590) (Zinc Chloride Disodium Salt) 7114-03-6. SC3067 10gm 32049000 18 1453.5
+⚠️ Could not parse serial 2769: METHYL GREEN (For Microscopy) (C.I.NO.42590) (Zinc Chloride Disodium Salt) 7114-03-6. SC3067 25gm 32049000 18 2490.5
+⚠️ Could not parse serial 2770: METHYL GREEN (For Microscopy) (C.I.NO.42590) (Zinc Chloride Disodium Salt) 7114-03-6. SC3067 100gm 32049000 18 9613.5 -- 37 of 66 --
+⚠️ Could not parse serial 2800: METHYL VIOLET (For Microscopy) (C.I.NO.42535) 8004-87-3 SC3119 25gm 32041341 18 #VALUE!
+⚠️ Could not parse serial 2801: METHYL VIOLET (For Microscopy) (C.I.NO.42535) 8004-87-3 SC3119 100gm 32041341 18 #VALUE!
+⚠️ Could not parse serial 2802: METHYL VIOLET (For Microscopy) (C.I.NO.42535) 8004-87-3 SC3119 1kg 32041341 18 #VALUE!
+⚠️ Could not parse serial 2807: METHYLENE BLUE (For Microscopy) (C.I.NO.52015) 61-73-4 SC3054 25gm 32041351 18 #VALUE!
+⚠️ Could not parse serial 2808: METHYLENE BLUE (For Microscopy) (C.I.NO.52015) 61-73-4 SC3054 100gm 32041351 18 #VALUE!
+⚠️ Could not parse serial 2809: METHYLENE BLUE (For Microscopy) (C.I.NO.52015) 61-73-4 SC3054 1kg 32041351 18 #VALUE!
+⚠️ Could not parse serial 2840: MOLYBDENUM DISUPHIDE POWDER 98% 1317-33-5 SC3140 100gm 28309010 18 #VALUE!
+⚠️ Could not parse serial 2841: MOLYBDENUM DISUPHIDE POWDER 98% 1317-33-5 SC3140 500gm 28309010 18 #VALUE! -- 38 of 66 --
+⚠️ Could not parse serial 2938: N-ACETYL-L-GLUTAMINE 99% 2490-97-3 SC0084 100 gm 29241900 18 13243
+⚠️ Could not parse serial 2994: NEODYMIUM CHLORIDE 99.9% AR (Anhydrous) 10024-93-8 SC3196 25gm 28469090 18 #VALUE!
+⚠️ Could not parse serial 3015: NEW FUCHSIN 75% (C.I.NO.42520) 3248-91-7 SC3204 25gm 32049000 18 #VALUE!
+⚠️ Could not parse serial 3016: NEW FUCHSIN 75% (C.I.NO.42520) 3248-91-7 SC3204 100gm 32049000 18 #VALUE!
+⚠️ Could not parse serial 3017: NEW METHYLENE BLUE (C.I. NO.52030) 6586-05-6 SC3206 5gm 32041359 18 #VALUE!
+⚠️ Could not parse serial 3018: NEW METHYLENE BLUE (C.I. NO.52030) 6586-05-6 SC3206 25gm 32041359 18 #VALUE!
+⚠️ Could not parse serial 3051: NICKEL BROMIDE 98% 13462-88-9 SC3214 100gm 28402090 18 #VALUE!
+⚠️ Could not parse serial 3052: NICKEL BROMIDE 98% 13462-88-9 SC3214 500gm 28402090 18 #VALUE!
+⚠️ Could not parse serial 3058: NICKEL FLUORIDE 97% 10028-18-9 SC3221 500gm 28259090 18 #VALUE!
+⚠️ Could not parse serial 3087: NIGROSINE (For Microscopy) (C.I.NO.50415) (Spirit Soluble) 11099-03-9 SC3242 25gm 32049000 18 #VALUE!
+⚠️ Could not parse serial 3088: NIGROSINE (For Microscopy) (C.I.NO.50415) (Spirit Soluble) 11099-03-9 SC3242 100gm 32049000 18 #VALUE!
+⚠️ Could not parse serial 3115: Nitric acid 69.5% For Trace Metal Analysis 7697-37-2 SC3254 500ml 28080010 18 #VALUE!
+⚠️ Could not parse serial 3116: Nitric acid 69.5% For Trace Metal Analysis 7697-37-2 SC3254 1 ltr 28080010 18 #VALUE!
+⚠️ Could not parse serial 3117: Nitric acid 69.5% For Trace Metal Analysis 7697-37-2 SC3254 2.5L 28080010 18 #VALUE!
+⚠️ Could not parse serial 3159: n-UNDECANE AR 1120-21-4 SC5664 250ml 29011000 18 #VALUE!
+⚠️ Could not parse serial 3404: ORTHOPHOSPHORIC ACID 85% Extra Pure 7664-38-2 SC3534 500ml 38220090 18 #VALUE!
+⚠️ Could not parse serial 3424: OX BILE DRIED POWDER 45% (For Microbiology) NA SC3372 100gm 5100020 5 1836
+⚠️ Could not parse serial 3425: OX BILE DRIED POWDER 45% (For Microbiology) NA SC3372 500gm 5100020 5 8381
+⚠️ Could not parse serial 3426: OX GALL POWDER (Bacteriological Grade) 8008-63-7 SC3373 100gm 5100020 5 1980.5
+⚠️ Could not parse serial 3427: OX GALL POWDER (Bacteriological Grade) 8008-63-7 SC3373 500gm 5100020 5 7310
+⚠️ Could not parse serial 3455: PALLADIUM ON CALCIUM CARBONATE (10% Pd) 7440-05-3 SC5596 5gm 38151210 18 #VALUE!
+⚠️ Could not parse serial 3456: PALLADIUM ON CALCIUM CARBONATE (5% Pd) 7440-05-3 SC5595 5gm 38151210 18 #VALUE!
+⚠️ Could not parse serial 3528: p-DIMETHYL AMINO ANTIPYRINE (Amino Pyrine) 58-15-1 SC0302 25 gm 29331100 18 2975
+⚠️ Could not parse serial 3661: POLYETHYLENE GLYCOL 1500 (For Synthesis) 25322-68-3 SC3610 500gm 39072090 18 #VALUE!
+⚠️ Could not parse serial 3662: POLYETHYLENE GLYCOL 4000 (For Synthesis) 25322-68-3 SC3613 500gm 39072090 18 #VALUE!
+⚠️ Could not parse serial 3663: POLYETHYLENE GLYCOL 4000 (For Synthesis) 25322-68-3 SC3613 5Kg 39072090 18 #VALUE!
+⚠️ Could not parse serial 3664: POLYETHYLENE GLYCOL 6000 (For Synthesis) 25322-68-3 SC3614 500gm 39072090 18 #VALUE!
+⚠️ Could not parse serial 3665: POLYETHYLENE GLYCOL 6000 (For Synthesis) 25322-68-3 SC3614 5Kg 39072090 18 #VALUE!
+⚠️ Could not parse serial 3666: POLYETHYLENE GLYLOL 200 (For Synthesis) 25322-68-3 SC3606 500ml 39072090 18 #VALUE!
+⚠️ Could not parse serial 3667: POLYETHYLENE GLYLOL 200 (For Synthesis) 25322-68-3 SC3606 2.5L 39072090 18 #VALUE!
+⚠️ Could not parse serial 3668: POLYETHYLENE GLYLOL 300 (For Synthesis) 25322-68-3 SC3607 500ml 39072090 18 #VALUE!
+⚠️ Could not parse serial 3669: POLYETHYLENE GLYLOL 300 (For Synthesis) 25322-68-3 SC3607 2.5L 39072090 18 #VALUE!
+⚠️ Could not parse serial 3670: POLYETHYLENE GLYLOL 400 (For Synthesis) 25322-68-3 SC3608 500ml 39072090 18 #VALUE!
+⚠️ Could not parse serial 3671: POLYETHYLENE GLYLOL 400 (For Synthesis) 25322-68-3 SC3608 2.5L 39072090 18 #VALUE!
+⚠️ Could not parse serial 3672: POLYETHYLENE GLYLOL 600 (For Synthesis) 25322-68-3 SC3609 500ml 39072090 18 #VALUE!
+⚠️ Could not parse serial 3673: POLYETHYLENE GLYLOL 600 (For Synthesis) 25322-68-3 SC3609 2.5L 39072090 18 #VALUE!
+⚠️ Could not parse serial 3689: POPOP Scintillation Grade 97% [1,4-Di-2(5-Phenyloxazoly)- Benzene] 1806-34-4 SC3636 100gm 29349900 18 #VALUE!
+⚠️ Could not parse serial 3729: POTASSIUM DICHROMATE 99.5% Extra Pure (Potassium Bichromate) 7778-50-9 SC3683 5kg 28415090 18 #VALUE!
+⚠️ Could not parse serial 3896: QUINALIZARIN 95% AR 81-61-8 SC3889 5gm 29146990 18 #VALUE!
+⚠️ Could not parse serial 3908: QUINIZARIN 96% (For Synthesis) (C.I.NO.58050) (1,4-Dihydroxyanthraquinone) 81-64-1 SC3896 100 gm 29146910 18 #VALUE!
+⚠️ Could not parse serial 3918: RENNET (Store in Refrigerator) 9042-08-4 SC5620 10gm 35071091 18 #VALUE!
+⚠️ Could not parse serial 3997: SELENIUM DIOXIDE (Sublimed) 99% Extra Pure 7446-08-4. SC3967 100gm 28112990 18 2754
+⚠️ Could not parse serial 3998: SELENIUM DIOXIDE (Sublimed) 99% Extra Pure 7446-08-4. SC3967 500gm 28112990 18 11568.5
+⚠️ Could not parse serial 4044: SILVER ACETATE 98% (Extra Pure) 563-63-3 SC4005 25gm 28432900 18 #VALUE!
+⚠️ Could not parse serial 4050: SILVER CARBONATE 99% Extra Pure 534-16-7 SC4007 25gm 28432900 18 #VALUE!
+⚠️ Could not parse serial 4052: SILVER CHLORIDE 99% Extra Pure 7783-90-6 SC4008 25gm 28432900 18 #VALUE!
+⚠️ Could not parse serial 4054: SILVER CHROMATE 98% Extra Pure 7784-01-2. SC4009 10gm 28432900 18 3639.5
+⚠️ Could not parse serial 4055: SILVER CHROMATE 98% Extra Pure 7784-01-2. SC4009 25gm 28432900 18 9575
+⚠️ Could not parse serial 4056: SILVER CHROMATE 98% Extra Pure 7784-01-2. SC4009 100gm 28432900 18 38787.5
+⚠️ Could not parse serial 4184: SODIUM BISULPHITE 39% SOLUTION IN WATER NA SC4089 2.5 Ltr 38220090 12 2006
+⚠️ Could not parse serial 4195: SODIUM CAPRYLATE 99% Extra Pure (Caprylic Acid Sodium Salt) 1984-06-1. SC1124 250gm 29159090 18 1470.5
+⚠️ Could not parse serial 4196: SODIUM CAPRYLATE 99% Extra Pure (Caprylic Acid Sodium Salt) 1984-06-1. SC1124 1kg 29159090 18 4343.5
+⚠️ Could not parse serial 4200: SODIUM CARBONATE (Monohydrate) 99.5% Extra Pure 5968-11-6. SC5635 500gm 28362010 18 382.5
+⚠️ Could not parse serial 4201: SODIUM CARBONATE (Monohydrate) 99.5% Extra Pure 5968-11-6. SC5635 5kg 28362010 18 2669
+⚠️ Could not parse serial 4202: SODIUM CARBONATE (Monohydrate) 99.9% AR 5968-11-6. SC4100 500gm 28362010 18 450.5
+⚠️ Could not parse serial 4203: SODIUM CARBONATE SOLUTION N/10 (0.1N) 5968-11-6. SC4101 500ml 28362010 12 348.5
+⚠️ Could not parse serial 4204: SODIUM CHLORIDE 99.5% AR 7647-14-5 SC4106 500gm 25010090 Nil 255
+⚠️ Could not parse serial 4205: SODIUM CHLORIDE 99.5% AR 7647-14-5 SC4106 5kg 25010090 Nil 1632
+⚠️ Could not parse serial 4206: SODIUM CHLORIDE 99.5% Extra Pure 7647-14-5 SC4105 500gm 25010090 Nil 221
+⚠️ Could not parse serial 4207: SODIUM CHLORIDE 99.5% Extra Pure 7647-14-5 SC4105 5kg 25010090 Nil 1487.5
+⚠️ Could not parse serial 4277: SODIUM LACTATE 60% SOLUTION Extra Pure 72-17-3 SC4189 2.5 Ltr 29181190 18 2295
+⚠️ Could not parse serial 4293: SODIUM METASILICATE 6834-92-0 SC5644 500gm 28429090 18 #VALUE!
+⚠️ Could not parse serial 4320: SODIUM PERCHLORATE (Monohydrate) 98% AR 7791-07-3. SC4231 250gm 28291100 18 3765.5
+⚠️ Could not parse serial 4321: SODIUM PERCHLORATE (Monohydrate) 98% AR 7791-07-3. SC4231 500gm 28291100 18 7165.5
+⚠️ Could not parse serial 4399: SODIUM-L-GLUTAMATE (Monohydrate) 98% 6106-04-3. SC4150 100gm 29224220 18 212.5
+⚠️ Could not parse serial 4400: SODIUM-L-GLUTAMATE (Monohydrate) 98% 6106-04-3. SC4150 500gm 29224220 18 603.5
+⚠️ Could not parse serial 4450: STRONTIUM CHROMATE 98% Extra Pure 7789-06-2. SC4361 500gm 28415090 18 2873
+⚠️ Could not parse serial 4454: STRONTIUM SULPHATE (Anhydrous) 98% Extra Pure 7759-02-6. SC4369 500gm 28332950 18 578
+⚠️ Could not parse serial 4474: SUDAN III (For Microscopy) (C.I.NO.26100) 85-86-9 SC4383 100 gm 32049000 18 654.5
+⚠️ Could not parse serial 4493: SULPHUR powder 98% Extra Pure 7704-34-9 SC4406 25kg 25030090 18 #VALUE!
+⚠️ Could not parse serial 4503: SULPHURIC ACID 98% 7664-93-9 SC4408 1 Ltr 28070010 18 532.5
+⚠️ Could not parse serial 4505: SULPHURIC ACID 98% 7664-93-9 SC4408 5 Ltr 28070010 18 2160
+⚠️ Could not parse serial 4507: SULPHURIC ACID 98% AR 7664-93-9 SC4409 1 Ltr 28070010 18 615
+⚠️ Could not parse serial 4654: THIOMERSAL 97% Extra Pure [2-(Ethyl Mercurio)Thio Benzoic Acid Sodium Salt] 54-64-8 SC4536 100gm 28539010 5 #VALUE!
+⚠️ Could not parse serial 4784: tri-SODIUM CITRATE Dihydrate 98% Extra Pure 6132-04-3. SC4116 500gm 29181520 18 688.5
+⚠️ Could not parse serial 4785: tri-SODIUM CITRATE Dihydrate 99% AR 6132-04-3. SC4117 500gm 29181520 18 807.5
+⚠️ Could not parse serial 4811: TUNGSTIC ACID 99% AR 7783-03-1. SC4715 100gm 28259090 18 1292
+⚠️ Could not parse serial 4812: TUNGSTIC ACID 99% AR 7783-03-1. SC4715 500gm 28259090 18 5193.5
+⚠️ Could not parse serial 4823: UNDECYLENIC ACID 112-38-9 SC5665 250ml 29161910 18 #VALUE!
+⚠️ Could not parse serial 4825: UNIVERSAL INDICATOR SOLUTION ph 4-11 With Colour Chart NA SC4729 125 ml 38220090 12 178.5
+⚠️ Could not parse serial 4826: UNIVERSAL INDICATOR SOLUTION ph 4-11 With Colour Chart NA SC4729 500 ml 38220090 12 357
+⚠️ Could not parse serial 4850: VANADIUM OXALATE 98% (Vanadyl Oxalate) NA SC5668 50gm 38220090 12 #VALUE!
+⚠️ Could not parse serial 4858: VANILLIC ACID (For Synthesis) (4-Hydroxy-3-methoxybenzoic acid) 121-34-6 SC5670 25gm 29183090 18 #VALUE!
+======================================
+SIMSON PARSER RESULT
+======================================
+Valid products: 4770
+
+----- FIRST 20 PRODUCTS -----
+
+{
+  serial: 1,
+  product_name: 'ABSCISIC ACID 98% (For Biochemistry)',
+  cas_number: '21293-29-8',
+  product_code: 'SC0001',
+  packing: '100mg',
+  hsn_code: '38089340',
+  gst: '18',
+  price: 4173.5
+}
+{
+  serial: 2,
+  product_name: 'ABSCISIC ACID 98% (For Biochemistry)',
+  cas_number: '21293-29-8',
+  product_code: 'SC0001',
+  packing: '500mg',
+  hsn_code: '38089340',
+  gst: '18',
+  price: 17671.5
+}
+{
+  serial: 3,
+  product_name: 'ACACIA AR (Enzyme Free)',
+  cas_number: '9000-01-5',
+  product_code: 'SC0003',
+  packing: '500gm',
+  hsn_code: '13012000',
+  gst: '5',
+  price: 841.5
+}
+{
+  serial: 4,
+  product_name: 'ACACIA Extra Pure (Confirming to IP)',
+  cas_number: '9000-01-5',
+  product_code: 'SC0002',
+  packing: '500gm',
+  hsn_code: '13012000',
+  gst: '5',
+  price: 501.5
+}
+{
+  serial: 5,
+  product_name: 'ACACIA Extra Pure (Confirming to IP)',
+  cas_number: '9000-01-5',
+  product_code: 'SC0002',
+  packing: '5kg',
+  hsn_code: '13012000',
+  gst: '5',
+  price: 4054.5
+}
+{
+  serial: 6,
+  product_name: 'ACENAPHTHENE (for synthesis)',
+  cas_number: '83-32-9',
+  product_code: 'SC0005',
+  packing: '100gm',
+  hsn_code: '29029090',
+  gst: '18',
+  price: 680
+}
+{
+  serial: 7,
+  product_name: 'ACENAPHTHENE (for synthesis)',
+  cas_number: '83-32-9',
+  product_code: 'SC0005',
+  packing: '500gm',
+  hsn_code: '29029090',
+  gst: '18',
+  price: 2677.5
+}
+{
+  serial: 8,
+  product_name: 'ACES BUFFER 99% Extra Pure [N-(2-Acetamido)-2-Aminoethane Sulphonic Acid]',
+  cas_number: '7365-82-4',
+  product_code: 'SC0007',
+  packing: '5gm',
+  hsn_code: '29241900',
+  gst: '18',
+  price: 578
+}
+{
+  serial: 9,
+  product_name: 'ACES BUFFER 99% Extra Pure [N-(2-Acetamido)-2-Aminoethane Sulphonic Acid]',
+  cas_number: '7365-82-4',
+  product_code: 'SC0007',
+  packing: '25gm',
+  hsn_code: '29241900',
+  gst: '18',
+  price: 1989
+}
+{
+  serial: 10,
+  product_name: 'ACETAMIDE 99% (For Synthesis)',
+  cas_number: '60-35-5',
+  product_code: 'SC0010',
+  packing: '250gm',
+  hsn_code: '29241900',
+  gst: '18',
+  price: 688.5
+}
+{
+  serial: 11,
+  product_name: 'ACETAMIDE 99% (For Synthesis)',
+  cas_number: '60-35-5',
+  product_code: 'SC0010',
+  packing: '500gm',
+  hsn_code: '29241900',
+  gst: '18',
+  price: 1300.5
+}
+{
+  serial: 12,
+  product_name: 'ACETANILIDE 98.5% Extra Pure (N-Phenyl Acetamide)',
+  cas_number: '103-84-4',
+  product_code: 'SC0016',
+  packing: '500gm',
+  hsn_code: '29242910',
+  gst: '18',
+  price: 1215.5
+}
+{
+  serial: 13,
+  product_name: 'ACETIC ACID 0.1M (0.1N) Standard Solution',
+  cas_number: 'NA',
+  product_code: 'SC0028',
+  packing: '500ml',
+  hsn_code: '29152100',
+  gst: '18',
+  price: 374
+}
+{
+  serial: 14,
+  product_name: 'ACETIC ACID 0.5M (0.5N) Standard Solution',
+  cas_number: 'NA',
+  product_code: 'SC0026',
+  packing: '500ml',
+  hsn_code: '29152100',
+  gst: '18',
+  price: 348.5
+}
+{
+  serial: 15,
+  product_name: 'ACETIC ACID 1M (1N) Standard Solution',
+  cas_number: 'NA',
+  product_code: 'SC0027',
+  packing: '500ml',
+  hsn_code: '29152100',
+  gst: '18',
+  price: 348.5
+}
+{
+  serial: 16,
+  product_name: 'ACETIC ACID 2M (2N) Standard Solution',
+  cas_number: 'NA',
+  product_code: 'SC0029',
+  packing: '500ml',
+  hsn_code: '29152100',
+  gst: '18',
+  price: 323
+}
+{
+  serial: 17,
+  product_name: 'ACETIC ACID 30% Extra Pure',
+  cas_number: '64-19-7',
+  product_code: 'SC0025',
+  packing: '500ml',
+  hsn_code: '29152100',
+  gst: '18',
+  price: 229.5
+}
+{
+  serial: 18,
+  product_name: 'ACETIC ACID 99.8% HPLC',
+  cas_number: '64-19-7',
+  product_code: 'SC0022',
+  packing: '1L',
+  hsn_code: '29152100',
+  gst: '18',
+  price: 1113.5
+}
+{
+  serial: 19,
+  product_name: 'ACETIC ACID 99.8% HPLC',
+  cas_number: '64-19-7',
+  product_code: 'SC0022',
+  packing: '2.5L',
+  hsn_code: '29152100',
+  gst: '18',
+  price: 2210
+}
+{
+  serial: 20,
+  product_name: 'ACETIC ACID GLACIAL "DRY" AR',
+  cas_number: '64-19-7',
+  product_code: 'SC5318',
+  packing: '500ml',
+  hsn_code: '29152100',
+  gst: '18',
+  price: 535.5
+}
+
+----- LAST 5 PRODUCTS -----
+
+{
+  serial: 4980,
+  product_name: 'ZIRCONIUM OXYCHLORIDE Octahydrate 98% Extra Pure',
+  cas_number: '13520-92-8',
+  product_code: 'SC4872',
+  packing: '100gm',
+  hsn_code: '28273990',
+  gst: '18',
+  price: 450.5
+}
+{
+  serial: 4981,
+  product_name: 'ZIRCONIUM OXYCHLORIDE Octahydrate 98% Extra Pure',
+  cas_number: '13520-92-8',
+  product_code: 'SC4872',
+  packing: '500gm',
+  hsn_code: '28273990',
+  gst: '18',
+  price: 1530
+}
+{
+  serial: 4982,
+  product_name: 'ZIRCONIUM PHOSPHATE',
+  cas_number: '13765-95-2',
+  product_code: 'SC4874',
+  packing: '500gm',
+  hsn_code: '28352990',
+  gst: '18',
+  price: 5601.5
+}
+{
+  serial: 4983,
+  product_name: 'ZIRCONIUM SILICATE Extra Pure',
+  cas_number: '10101-52-7',
+  product_code: 'SC4875',
+  packing: '250gm',
+  hsn_code: '28399090',
+  gst: '18',
+  price: 1173
+}
+{
+  serial: 4984,
+  product_name: 'ZIRCONIUM SILICATE Extra Pure',
+  cas_number: '10101-52-7',
+  product_code: 'SC4875',
+  packing: '1kg',
+  hsn_code: '28399090',
+  gst: '18',
+  price: 3663.5
+}
+
+======================================
+Saved: ./simson-products.json
+======================================

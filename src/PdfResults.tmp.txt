@@ -1,0 +1,23 @@
+﻿function PdfResults({ pdfResults }) {
+  if (!pdfResults || pdfResults.length === 0) return null;
+
+  return (
+    <div className="mb-5 bg-white border border-slate-200 rounded-2xl shadow-sm overflow-hidden">
+      <div className="px-5 py-4 border-b border-slate-100">
+        <h2 className="text-lg font-bold text-slate-900">📄 PDF Search Results</h2>
+        <p className="text-sm text-slate-500 mt-1">Matching content from imported company PDFs</p>
+      </div>
+      <div className="divide-y divide-slate-100">
+        {pdfResults.map((item) => (
+          <div key={item.id} className="px-5 py-4">
+            <div className="font-semibold text-slate-900">{item.company}</div>
+            <div className="text-xs text-slate-500 mt-1">Chunk {item.page_number}</div>
+            <div className="text-sm text-slate-600 whitespace-pre-wrap break-words mt-2 max-h-40 overflow-hidden">{item.content}</div>
+          </div>
+        ))}
+      </div>
+    </div>
+  );
+}
+
+
