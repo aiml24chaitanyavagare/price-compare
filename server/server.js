@@ -1,4 +1,4 @@
-﻿import express from "express";
+import express from "express";
 import cors from "cors";
 import db from "./database.js";
 import ExcelJS from "exceljs";
@@ -49,7 +49,7 @@ async function exportQuotationsToExcel() {
   );
 }
 const app = express();
-const PORT = 5000;
+const PORT = process.env.PORT || 5000;
 
 app.use(cors());
 app.use(express.json());
@@ -339,6 +339,7 @@ app.listen(PORT, () => {
   console.log(`Price Compare API running at http://localhost:${PORT}`);
   console.log("========================================");
 });
+
 
 
 
